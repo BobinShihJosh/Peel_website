@@ -28,7 +28,7 @@ const Hero = () => (
       </div>
       <h1 className='font-poppins font-semibold ss:text-[62px] ph:text-[45px] bph:text-[50px] text-[52px] dark-text ss:leading-[100px] leading-[75px] w-full'> At your convenience</h1>
       <p className={`${styles.paragraph} max-w-[570px] mt-5 dark-text`}>
-      Peelsss is a platform that offers on-demand personalized chatting services. Users can handpick verified individuals for 1-on-1 conversations tailored to their preferred topics. We makes authentic conversations with real people more accessible than ever.</p>
+      Peel is a platform that offers on-demand personalized chatting services. Users can handpick verified individuals for 1-on-1 conversations tailored to their preferred topics. We makes authentic conversations with real people more accessible than ever.</p>
         <Button text="Try the Beta" styles={`mt-10`} href='#product' />
     </div>
         
